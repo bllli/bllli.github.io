@@ -16,7 +16,7 @@ laravel框架中的队列服务,需要运行队列处理器
 
 依照[laravel教程](https://laravel-china.org/docs/laravel/5.6/queues/1395#supervisor-configuration)
 推荐使用进程管理工具 supervisor
-
+<!--more-->
 ## Supervisor 安装
 ```shell
 yum install supervisor  # centos
