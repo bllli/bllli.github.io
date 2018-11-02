@@ -24,7 +24,7 @@ yum install firewalld firewalld-config
 systemctl start firewalld  # 启动防火墙
 systemctl stop firewalld  # 禁用防火墙
 systemctl enable firewalld  # 设置开机启动
-sytemctl disable firewalld  # 停止并禁用开机启动
+systemctl disable firewalld  # 停止并禁用开机启动
 systemctl status firewalld  # 查看状态
 
 firewall-cmd --state  # 查看状态
