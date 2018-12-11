@@ -3,7 +3,7 @@ layout: article
 title: SpringBoot集成Sentry异常收集
 key: spring-boot-sentry
 tags:
-  java
+  Java
   SpringBoot
 ---
 SpringBoot集成Sentry，使用sentry-spring而非sentry-logback。完整代码示例。
