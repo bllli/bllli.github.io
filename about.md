@@ -5,9 +5,8 @@ key: page-about
 ---
 
 - Ingress 玩家 $\color{green}{@bllli}$
-- Python 爱好者
-- 曾经是 Python/PHP Web 后端程序猿
-- 正在学Java
+- Python Web 后端程序猿
+- 正在学Golang
 
-爱编程，爱折腾；时而犯懒，时而干劲满满。
+爱编程，爱折腾；经常犯懒，偶尔干劲满满。
 

@@ -11,7 +11,7 @@ if __name__ == '__main__':
         raise EnvironmentError("我这是在哪儿?")
 
     if len(sys.argv) < 2:
-        raise Exception("Usage: python3.7 create_post.py")
+        raise Exception("Usage: python3 create_post.py <post_key> <post_title>")
 
     post_key = sys.argv[1]
     post_title = sys.argv[2]
