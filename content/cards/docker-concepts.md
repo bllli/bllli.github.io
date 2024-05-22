@@ -21,7 +21,7 @@ slug: docker-concepts
 ### Docker Desktop
 
 安装在windows、mac、带桌面的linux发行版上, 用于本地开发环境
-[[orbstack-dockerdesktop-alternative|(尝试中) OrbStack DockerDesktop 替代品]]
+[[orbstack-dockerdesktop-alternative|MacOS DockerDesktop 替代品 OrbStack]]
 
 ### Docker Engine
 

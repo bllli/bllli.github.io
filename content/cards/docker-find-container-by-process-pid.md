@@ -2,7 +2,7 @@
 title: Docker 用进程pid查找该进程所属容器
 slug: docker-find-container-by-process-pid
 date created: 2023-12-27 00:33
-date modified: 2024-05-22 17:53
+date modified: 2024-05-22 19:28
 feed: show
 blog: tech
 date: 2024-05-21
@@ -24,3 +24,8 @@ cat /proc/<process-pid>/cgroup
 ```
 docker inspect <cgroup-id-prefix>
 ```
+
+
+## thanks
+
+https://cloud-atlas.readthedocs.io/zh-cn/latest/docker/debug/get_container_by_pid.html
