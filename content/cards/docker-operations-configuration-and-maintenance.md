@@ -2,11 +2,11 @@
 title: Docker 运维 配置与维护
 slug: docker-operations-configuration-and-maintenance
 date created: 2024-05-22 17:36
-date modified: 2024-05-22 17:53
-feed: show
+date modified: 2024-05-22 19:04
 blog: tech
-date: 2024-05-21
 ---
+
+#Area/RD/运维/Docker 
 
 - 镜像下载地址  [[docker-pull-image-using-china-mirror|Docker 拉取镜像 使用中国镜像站]]
 - 确认 image 存储地址

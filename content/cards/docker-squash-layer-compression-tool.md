@@ -7,7 +7,7 @@ feed: show
 blog: tech
 date: 2024-05-21
 ---
-#Area/RD/运维/docker 
+#Area/RD/运维/Docker 
 
 将image中的多个层(layer)压缩成1层
 删除其中被覆盖的文件

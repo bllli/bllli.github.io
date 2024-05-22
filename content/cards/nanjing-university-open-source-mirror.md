@@ -2,10 +2,8 @@
 title: 南京大学 开源镜像站
 slug: nanjing-university-open-source-mirror
 date created: 2023-12-26 23:54
-date modified: 2024-05-22 17:49
-feed: show
+date modified: 2024-05-22 18:59
 blog: tech
-date: 2024-05-21
 ---
 #Area/RD/运维/linux  
 
@@ -17,4 +15,4 @@ docker-ce [Docker CE 软件仓库镜像使用帮助 - MirrorZ Help (nju.edu.cn)]
 
 
 also see:
-- MirrorZ Help 校园联合镜像站
+- [[mirrorz-help-campus-joint-mirror|MirrorZ Help 校园联合镜像站]]
