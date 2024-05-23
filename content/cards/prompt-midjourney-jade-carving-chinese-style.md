@@ -16,9 +16,9 @@ slug: prompt-midjourney-jade-carving-chinese-style
 miniature landscape, jade sculpture, mountains, a chinese ancient architecture are in between a cloud, in the style of gold and jade, photorealistic details,Very good light transmittance, miniature sculptures, made of jade, gold and emerald, uhd image, Epic, octane render, beautifully detailed, light diffusion, cinematic shading, cinematic elements --ar 3:4 --v 6.0
 
 
-![Pasted image 20231227193219.png](assets/pasted-image-20231227193219-37d6245aa9b1737eef0294cffa163dd2.png)
+![Pasted image 20231227193219.png](static/assets/pasted-image-20231227193219-37d6245aa9b1737eef0294cffa163dd2.png)
 
-![Pasted image 20231227193238.png](assets/pasted-image-20231227193238-8bb9e68095d1f412c244d8663698a8d1.png)
+![Pasted image 20231227193238.png](static/assets/pasted-image-20231227193238-8bb9e68095d1f412c244d8663698a8d1.png)
 
 
 link: https://web.okjike.com/originalPost/658bc152a922aa28d02decf0
