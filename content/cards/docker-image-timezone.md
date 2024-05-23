@@ -1,7 +1,7 @@
 ---
 date created: 2023-12-27 00:33
-date modified: 2024-05-22 17:52
-title: docker 镜像时区
+date modified: 2024-05-22 20:02
+title: Docker 镜像时区
 slug: docker-image-timezone
 feed: show
 blog: tech
