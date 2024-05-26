@@ -1,7 +1,7 @@
 ---
 title: 减肥药 司美格鲁肽
 date created: 2024-05-26 10:40
-date modified: 2024-05-26 10:50
+date modified: 2024-05-26 17:06
 slug: weight-loss-pill-semaglutide
 ---
 
@@ -11,7 +11,7 @@ slug: weight-loss-pill-semaglutide
 
 
 属于胰高血糖素样肽（GLP）-1受体激动剂，其作用机制是模拟GLP-1作用，增加胰岛素分泌，用于控制糖尿病患者血糖浓度
-无心插柳地是在临床实践中发现了GLP-1受体激动剂可以减缓胃排空、增加饱腹感、减低食欲，达到减轻体重的作用。在国外对肥胖/超重人群的临床试验结果显示，GLP-1受体激动剂的减重效果优于[[weight-loss-pill-orlistat|减肥药 奥利司他]]。
+无心插柳地是在临床实践中发现了GLP-1受体激动剂可以减缓胃排空、增加饱腹感、减低食欲，达到减轻体重的作用。在国外对肥胖/超重人群的临床试验结果显示，GLP-1受体激动剂的减重效果优于奥利司他。
 
 [司美格鲁肽](https://zh.wikipedia.org/zh-sg/%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD)
 

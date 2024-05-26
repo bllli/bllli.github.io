@@ -12,8 +12,8 @@ pip config set global.index-url https://mirrors.cernet.edu.cn/pypi/web/simple
 ```
 
 
-- [[nanjing-university-open-source-mirror|南京大学 开源镜像站]]
-- [[mirrorz-help-campus-joint-mirror|MirrorZ Help 校园联合镜像站]]
+- [[cards/nanjing-university-open-source-mirror|南京大学 开源镜像站]]
+- [[cards/mirrorz-help-campus-joint-mirror|MirrorZ Help 校园联合镜像站]]
 
 
 BUG !

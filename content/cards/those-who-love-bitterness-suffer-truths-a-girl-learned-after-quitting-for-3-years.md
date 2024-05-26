@@ -6,7 +6,7 @@ slug: those-who-love-bitterness-suffer-truths-a-girl-learned-after-quitting-for-
 ---
 #资源/读书笔记 
 
-[[yohji-yamamoto-on-how-to-find-yourself|🪞山本耀司说如何发现自我]]
+[[cards/yohji-yamamoto-on-how-to-find-yourself|🪞山本耀司说如何发现自我]]
 
 姜：山本耀司，他说“自我是一个很抽象的东西，你无法直接去认识它。你只有把它放在非我里，你才知道我是什么”
 很多时候你是遇到了一些和你不匹配的东西，去碰撞，你感觉到疼痛了，然后你依然不愿意去修改的那部分，其实是你真正的自我。

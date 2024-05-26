@@ -12,6 +12,6 @@ xún yù
 荀  彧  不是 狗 货
 
 
-[[do-not-make-assumptions|🪞不要想当然]]
+[[cards/do-not-make-assumptions|🪞不要想当然]]
 
 #兴趣/微言大义

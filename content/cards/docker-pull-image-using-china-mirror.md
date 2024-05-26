@@ -9,5 +9,5 @@ date: 2024-05-21
 ---
 #Area/RD/运维/Docker 
 
-- 镜像源 [[nanjing-university-open-source-mirror|南京大学 开源镜像站]]
+- 镜像源 [[cards/nanjing-university-open-source-mirror|南京大学 开源镜像站]]
 - 大佬杨斌整理的镜像 更新十分频繁 https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6

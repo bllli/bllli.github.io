@@ -21,4 +21,4 @@ du -h -d 1
 du -h --max-depth=1 .
 ```
 
-[[linux-df-command|→ df 命令 查看硬盘剩余空间]]
+[[cards/linux-df-command|→ df 命令 查看硬盘剩余空间]]

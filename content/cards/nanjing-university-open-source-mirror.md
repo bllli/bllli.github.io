@@ -15,4 +15,4 @@ docker-ce [Docker CE 软件仓库镜像使用帮助 - MirrorZ Help (nju.edu.cn)]
 
 
 also see:
-- [[mirrorz-help-campus-joint-mirror|MirrorZ Help 校园联合镜像站]]
+- [[cards/mirrorz-help-campus-joint-mirror|MirrorZ Help 校园联合镜像站]]

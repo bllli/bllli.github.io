@@ -6,7 +6,7 @@ slug: Tessellation
 ---
 #兴趣/数学/平面几何
 
-## [[geohash|Geohash]]
+## [[cards/geohash|Geohash]]
 
 工程上使用正六边形镶嵌
 

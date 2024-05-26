@@ -1,8 +1,7 @@
 ---
 title: MacOS DockerDesktop 替代品 OrbStack
 date created: 2024-05-07 16:00
-date modified: 2024-05-22 19:35
-blog: tech
+date modified: 2024-05-26 17:18
 slug: orbstack-dockerdesktop-alternative
 ---
 
