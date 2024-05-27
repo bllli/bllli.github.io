@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "-WCasKXLoQ0C3fTO6h0r_Mn4PyBquhc33xEjn3LoA-Q"
+      tagId: "G-VTEEEMWJDH"
     },
     locale: "en-US",
     baseUrl: "bllli.github.io",
