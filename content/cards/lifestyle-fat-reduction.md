@@ -1,10 +1,10 @@
 ---
 title: 生活化减脂
 date created: 2024-04-28 10:14
-date modified: 2024-05-26 11:14
+date modified: 2024-05-28 10:27
 slug: lifestyle-fat-reduction
 ---
-#Area/Life 
+#Area/Life/控制体重 
 
 https://www.bilibili.com/video/BV1794y1a7y4/
 
