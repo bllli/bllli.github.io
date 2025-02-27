@@ -3,7 +3,7 @@ title: Ingress
 date created: 2024-11-22 15:16
 date modified: 2024-11-22 15:17
 tags:
-  - Area/life/Ingress
+  - Area/Life/Ingress
 slug: ingress-the-game
 ---
  

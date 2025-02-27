@@ -1,7 +1,7 @@
 ---
 title: welcome
 date created: 2024-02-26 14:06
-date modified: 2025-01-03 10:57
+date modified: 2025-02-19 18:02
 slug: index
 ---
 
@@ -21,7 +21,7 @@ slug: index
 
 ## 关于我
 
-- AI 应用研发，主要适用 python
+- AI 应用研发，主要使用 python
 - Python CURDer
 - [Ingress](cards/ingress-the-game) 玩家 $\textcolor{green}{bllli}$
 

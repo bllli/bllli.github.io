@@ -4,7 +4,7 @@ date created: 2024-11-14 10:09
 date modified: 2024-12-12 10:14
 slug: ingress-portal-nomination-experience
 tags:
-  - Area/life/ingress
+  - Area/Life/Ingress
 ---
 
 雕塑（包括非临时装饰物、商场吉祥物）、亭子（包括有无顶等各种形式）、水池（一般不含自然形成的，带地名标识的也可以）、喷泉（流水的、涌泉的、高喷的都可以）、告示栏宣传栏（街道的政府的党政军科教文卫的都可以）、商场的精神堡垒、健身场地（球场运动场、康体设施群）
